@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lahfir
 - 👀 I’m interested in Python, Web Dev, and Designing
-- 🌱 I’m currently learning React Native (Progressed 75%)
+- 🌱 I’m currently learning React Native (Progressed 95%)
 - 💞️ I’m looking to collaborate on ReactJS
 - 📫 How to reach me => nmhlahfir2@gmail.com
 
