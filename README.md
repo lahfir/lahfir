@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lahfir</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate software engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lahfir&label=Profile%20views&color=0e75b6&style=flat" alt="lahfir" /> </p>
 
@@ -7,19 +7,19 @@
 
 <p align="left"> <a href="https://twitter.com/laughfir" target="blank"><img src="https://img.shields.io/twitter/follow/laughfir?logo=twitter&style=for-the-badge" alt="laughfir" /></a> </p>
 
-- 🔭 I’m currently working on **OpenAI-Whisper-Audio-Transcription**
+- 🔭 I’m currently working on **Building a robust architecture with OpenAI Assistants**
 
-- 🌱 I’m currently learning **OpenAI Model Fine-Tuning**
+- 🌱 I’m currently learning **Building EDA (Event Driven Architecture)**
 
-- 👯 I’m looking to collaborate on **AI Projects**
+- 👯 I’m looking to collaborate on **AI Based Projects (Especially on the side of backend in Python)**
 
 - 👨‍💻 All of my projects are available at [https://www.lahfir.com](https://www.lahfir.com)
 
-- 💬 Ask me about **react, react-native, life**
+- 💬 Ask me about **Anything except girls**
 
 - 📫 How to reach me **nmhlahfir2@gmail.com**
 
-- ⚡ Fun fact **I'm a nerd!**
+- ⚡ Fun fact **I didn't get into Stanford**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
