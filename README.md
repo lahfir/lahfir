@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to collaborate on **AI Based Projects (Especially on the side of backend in Python)**
 
-- 👨‍💻 All of my projects are available at [https://www.lahfir.com](https://www.lahfir.com)
+- 👨‍💻 All of my projects are available at [https://www.lahfir.com](https://www.lahfir.me)
 
 - 💬 Ask me about **Anything except girls**
 
