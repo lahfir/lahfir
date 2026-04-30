@@ -20,4 +20,4 @@ I build the harnesses that let AI actually do things — desktop agents that cli
 
 #### Elsewhere
 
-[lahfir.com](https://lahfir.com) · [X](https://x.com/Laughfir) · [LinkedIn](https://linkedin.com/in/lahfir)
+[lahfir.com](https://lahfir.com) · [X](https://x.com/Laughfir) · [LinkedIn](https://linkedin.com/in/lahfir) · [Sponsor](https://github.com/sponsors/lahfir)
