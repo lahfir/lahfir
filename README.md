@@ -7,6 +7,7 @@ I build the harnesses that let AI actually do things — desktop agents that cli
 | Project | What it does | Built with |
 |---------|-------------|------------|
 | [agent-desktop](https://github.com/lahfir/agent-desktop) | Desktop automation CLI for AI agents via OS accessibility trees | Rust |
+| [schemalint](https://github.com/1nder-labs/schemalint) | Static analysis for JSON Schema compatibility with LLM structured-output providers | Rust |
 | [cracked-agent](https://github.com/lahfir/cracked-agent) | Autonomous browser automation powered by LLMs | TypeScript |
 | [pilot](https://github.com/lahfir/pilot) | Multi-agent autonomous automation framework with 99%+ accuracy via accessibility APIs, computer vision, OCR, and vision LLMs | Python |
 | [remail](https://remail-ai.netlify.app) | AI email template generator that turns prompts and reference images into production-ready HTML emails | TanStack / Vite |
